@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - **Cloud**: Digital Ocean, Heroku, Google Cloud Platform, Netlify
 - **Bot**: Telegram Bot
 
-![Polma's github stats](https://github-readme-stats.vercel.app/api?username=polma-tambunan&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Polma's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=polma-tambunan&layout=compact&langs_count=8&hide_border=true)
+![Polma's github stats](https://github-readme-stats.vercel.app/api?username=plmtmbnn&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Polma's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=plmtmbnn&layout=compact&langs_count=8&hide_border=true)
 <br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=polma-tambunan.polma-tambunan)
