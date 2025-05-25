@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Polma Tambunan
 
-🚀 **Software Engineer | since 2018 in Fintech | Runner on a Mission**
+🚀 **Software Engineer | in Fintech since 2018 | Runner on a Mission**
 
 ---
 
 ## 💻 About Me
 
-I'm a software engineer with 2018 years of experience building backend systems, APIs, and scalable solutions—primarily in the fintech space. My core strengths lie in:
+I'm a software engineer with years of experience building backend systems, APIs, and scalable solutions—primarily in the fintech space since 2018. My core strengths lie in:
 
 - TypeScript, Node.js, and Go
 - SQL & NoSQL (PostgreSQL, MongoDB)
