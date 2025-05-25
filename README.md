@@ -29,14 +29,14 @@ When I'm not coding, you’ll find me **running by Lake Toba**, chasing my perso
 - 🧪 Building a multi-company employee loan system
 - 🧰 Improving observability across services with OpenTelemetry & Prometheus
 - 📦 Exploring Go for high-performance microservices
-- 🌐 Maintaining my [polmatambunan.my.id]([https://yourwebsite.com](https://www.polmatambunan.my.id/)) — built with Vite, Tailwind, and love
+- 🌐 Maintaining my [polmatambunan.my.id](https://yourwebsite.com](https://www.polmatambunan.my.id/)) — built with Vite, Tailwind, and love
 
 ---
 
 ## 📫 Let's Connect
 
-- Personal Website: [polmatambunan.my.id]([https://yourwebsite.com](https://www.polmatambunan.my.id/))
-- LinkedIn: [linkedin.com/in/polmatambunan]([https://linkedin.com/in/polmatambunan](https://www.linkedin.com/in/polma-tambunan/))
+- Personal Website: [polmatambunan.my.id](https://yourwebsite.com](https://www.polmatambunan.my.id/))
+- LinkedIn: [linkedin.com/in/polmatambunan](https://linkedin.com/in/polmatambunan](https://www.linkedin.com/in/polma-tambunan/))
 - Strava: [strava.com/athletes/yourprofile](https://www.strava.com/athletes/38682026)
 
 ---
